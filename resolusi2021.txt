@@ -2,3 +2,4 @@ Resolusi Margrieta:
 - konsisten dalam belajar sqa 45 menit sehari
 - membuat satu aplikasi web dan mobile sederhana
 - mampu memanagement waktu dengan efektif
+- mengerjakan dicoding
